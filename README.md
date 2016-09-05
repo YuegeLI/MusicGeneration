@@ -4,7 +4,7 @@ This is the MSc Final Project. The title of this project is Music Generation in 
 
 The source code of this project is on the Github: https://github.com/YuegeLI/MusicGeneration. All the source code can be ran directly. 
 
-The 'fold data' includes all the data used in my project.
+The fold 'data' includes all the data used in my project.
 
 The fold 'model' includes the model RNN, LSTM, RNN-RBM, LSTM-RBM, AttLSTM-RBM and RF-Non Laplacian. Just run them directly. The generated music will be in the 'sample' fold.
 
